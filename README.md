@@ -22,3 +22,8 @@ cat-people is a bit more likely to have nuances appropriate
 to a natural-language.
 After all - though it is a conlang in our real-live universe,
 in the in-story universe of _Cannonville Heroes_, it is a natlang.
+
+It is for this reason that the primary resource of this
+language is a module for LanguaMunity - a program that
+is designed for the teaching of languages, not for the
+construction of languages.
